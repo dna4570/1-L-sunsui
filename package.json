@@ -1,0 +1,24 @@
+{
+  "name": "1-l-sunsui",
+  "version": "1.0.0",
+  "author": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "@chakra-ui/vue": "^0.13.1",
+    "@emotion/css": "^11.11.2",
+    "emotion": "^10.0.27",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0",
+    "vue-material": "^1.0.0-beta-16"
+  },
+  "devDependencies": {
+    "chakra-loader": "^1.0.2",
+    "vue-cli-plugin-chakra-ui": "~1.0.3"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "description": ""
+}
